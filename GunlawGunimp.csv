@@ -1,0 +1,22 @@
+Date/time,"Feb 13, 2024 (Tue 08:49 PM PST)"
+Study,GSS 1972-2022 Cumulative Datafile - Release 2
+
+Row variable,gunimp,importance of gun control issue to r
+Column variable,gunlaw,favor or oppose gun permits
+Weight variable,compwt,Composite Weight
+
+Frequency Distribution
+
+,,1 favor,2 oppose,ROW TOTAL
+Column percent,1 one of most imp,15.5,12.6,14.7
+Column percent,2 important,55.4,47.6,53.3
+Column percent,3 not very imp,24.9,30.5,26.5
+Column percent,4 not important,4.2,9.2,5.6
+Column percent,COL TOTAL,100.0,100.0,100.0
+
+,,1 favor,2 oppose,ROW TOTAL
+Weighted N,1 one of most imp,214.1,67.8,281.9
+Weighted N,2 important,766.5,255.7,1022.3
+Weighted N,3 not very imp,343.9,163.9,507.8
+Weighted N,4 not important,58.0,49.7,107.7
+Weighted N,COL TOTAL,1382.6,537.1,1919.7
